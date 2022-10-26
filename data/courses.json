@@ -269,7 +269,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "06",
+        "category_id": "05",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -335,7 +335,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "06",
+        "category_id": "05",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
