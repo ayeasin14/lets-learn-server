@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Best seller Courses"
+    },
+    {
+        "id": "02",
+        "name": "New Courses"
+    },
+    {
+        "id": "03",
+        "name": "Freelancing Courses"
+    },
+    {
+        "id": "04",
+        "name": "Digital Marketing Courses"
+    },
+    {
+        "id": "05",
+        "name": "Graphics Design Courses"
+    },
+    {
+        "id": "06",
+        "name": "SMM Courses"
+    }
+]
