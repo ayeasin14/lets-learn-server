@@ -28,6 +28,10 @@ app.get('/category/:id', (req, res) => {
     }
 })
 
+app.get('/course', (req, res) => {
+    res.send(course);
+})
+
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourse = course.find(c => c._id === id);
